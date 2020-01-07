@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Add Record Form</title>
+    <title>Add products</title>
 </head>
 <body>
 <form action="insert.php" method="post">
