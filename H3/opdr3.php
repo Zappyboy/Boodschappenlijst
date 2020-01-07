@@ -1,13 +1,13 @@
 <?php
 //edit this array
 $boodschappen = array();
-$boodschappen[] = array ('product' => 'Aardappelen');
-$boodschappen[] = array ('product' => 'Aardbeien');
-$boodschappen[] = array ('product' => '3 pakken melk');
-$boodschappen[] = array ('product' => 'yoghurt','email');
+$boodschappen[] = array ('product' => '<img src="img/aardappelen.jpg">');
+$boodschappen[] = array ('product' => ' <img src="img/aardbeien.jpg">');
+$boodschappen[] = array ('product' => '<img src="img/melk.jpg">');
+$boodschappen[] = array ('product' => '<img src="img/yoghurt.jpg">');
 
 
 foreach ($boodschappen as $boodschappen) {
-    echo "<ul>\n<li>" . $boodschappen['product'] . "</li></ul>\n";
+    echo $boodschappen['product'];
 }
 ?>

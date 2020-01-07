@@ -1,0 +1,2 @@
+CREATE TABLE 'boodschappen'.'product' ( 'idproduct' INT NOT NULL AUTO_INCREMENT , 'omschrijving' VARCHAR NOT NULL , PRIMARY KEY ('idproduct')) ENGINE = InnoDB;
+INSERT INTO 'product' ('idproduct', 'omschrijving') VALUES (NULL, 'Aardappelen'), (NULL, 'Aardbeien'), (NULL, 'Melk'), (NULL, 'Yoghurt');
