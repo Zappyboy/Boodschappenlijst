@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fae101d-f625-4e0e-9807-b30ed71cbc48" name="Default Changelist" comment="" />
+    <list default="true" id="2fae101d-f625-4e0e-9807-b30ed71cbc48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/H7/insert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H7/opdr7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +83,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578391398448</updated>
-      <workItem from="1578391399696" duration="6085000" />
+      <workItem from="1578391399696" duration="6691000" />
+      <workItem from="1578413904300" duration="897000" />
     </task>
     <servers />
   </component>
@@ -103,10 +108,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="409" y="200" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.864@0.0.1536.864" timestamp="1578399708093" />
-    <state x="604" y="357" key="NewPhpFileDialog" timestamp="1578400531896">
+    <state x="604" y="357" key="NewPhpFileDialog" timestamp="1578414507839">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="604" y="357" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1578400531896" />
+    <state x="604" y="357" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1578414507839" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1578413914026">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1578413914026" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1578400059890">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
