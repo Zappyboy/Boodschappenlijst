@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fae101d-f625-4e0e-9807-b30ed71cbc48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/H8/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H8/opdr8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H9/date.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H9/opdr9.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,15 +55,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/educus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/H9" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Xampp\htdocs\Boodschappenlijst\H5" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Xampp\htdocs\Boodschappenlijst\H9" />
       <recent name="D:\Xampp\htdocs\Boodschappenlijst\H3\img" />
       <recent name="D:\Xampp\htdocs\Boodschappenlijst\H6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Xampp\htdocs\Boodschappenlijst\H5" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -85,7 +90,8 @@
       <option name="presentableId" value="Default" />
       <updated>1578391398448</updated>
       <workItem from="1578391399696" duration="6691000" />
-      <workItem from="1578413904300" duration="2548000" />
+      <workItem from="1578413904300" duration="2958000" />
+      <workItem from="1578467835719" duration="3460000" />
     </task>
     <servers />
   </component>
@@ -113,21 +119,21 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578464540608" />
-    <state x="604" y="357" key="NewPhpFileDialog" timestamp="1578414981596">
+    <state x="604" y="357" key="NewPhpFileDialog" timestamp="1578470225556">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="604" y="357" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1578414981596" />
-    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1578413914026">
+    <state x="604" y="357" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1578470225556" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1578467844945">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1578413914026" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1578467844945" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1578400059890">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578400059890" />
-    <state x="431" y="181" key="search.everywhere.popup" timestamp="1578393563460">
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1578470943283">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="181" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578393563460" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578470943283" />
   </component>
 </project>
