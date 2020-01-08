@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fae101d-f625-4e0e-9807-b30ed71cbc48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/H5/opdr5.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H4/opdr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/H4/opdr4.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/H3/img" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/educus" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -87,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578391398448</updated>
       <workItem from="1578391399696" duration="6691000" />
-      <workItem from="1578413904300" duration="1696000" />
+      <workItem from="1578413904300" duration="2548000" />
     </task>
     <servers />
   </component>
@@ -111,6 +109,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="409" y="200" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.864@0.0.1536.864" timestamp="1578399708093" />
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1578464540608">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578464540608" />
     <state x="604" y="357" key="NewPhpFileDialog" timestamp="1578414981596">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
