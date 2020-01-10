@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fae101d-f625-4e0e-9807-b30ed71cbc48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/H8/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H8/opdr8.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H9/date.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H9/opdr9.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5/opdracht5.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H8/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/H8/delete.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +56,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/H9" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Xampp\htdocs\Boodschappenlijst\H5" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Xampp\htdocs\Boodschappenlijst\H9" />
       <recent name="D:\Xampp\htdocs\Boodschappenlijst\H3\img" />
       <recent name="D:\Xampp\htdocs\Boodschappenlijst\H6" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Xampp\htdocs\Boodschappenlijst\H5" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -91,7 +89,11 @@
       <updated>1578391398448</updated>
       <workItem from="1578391399696" duration="6691000" />
       <workItem from="1578413904300" duration="2958000" />
-      <workItem from="1578467835719" duration="3460000" />
+      <workItem from="1578467835719" duration="4931000" />
+      <workItem from="1578501642545" duration="35000" />
+      <workItem from="1578501869410" duration="2000" />
+      <workItem from="1578641486604" duration="36000" />
+      <workItem from="1578641534087" duration="2023000" />
     </task>
     <servers />
   </component>
@@ -115,18 +117,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="409" y="200" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.864@0.0.1536.864" timestamp="1578399708093" />
+    <state x="449" y="161" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578641521234">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="161" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578641521234" />
     <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1578464540608">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578464540608" />
-    <state x="604" y="357" key="NewPhpFileDialog" timestamp="1578470225556">
+    <state x="604" y="357" key="NewPhpFileDialog" timestamp="1578641946233">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="604" y="357" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1578470225556" />
-    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1578467844945">
+    <state x="604" y="357" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1578641946233" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1578641535287">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1578467844945" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1578641535287" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1578400059890">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
