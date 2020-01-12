@@ -7,8 +7,8 @@ if (isset($_POST['search']))
 {
     $txtStartDate=$_POST['txtStartDate'];
     $txtEndDate=$_POST['txtEndDate'];
-    $query = mysqli_query($conn, "SELECT tijd FROM product WHERE JOINdate BETWEEN
-    '$txtStartDate' and '$txtEndDate' ORDER BY JOINdate");
+    $query = mysqli_query($conn, "SELECT omschrijving FROM product WHERE tijd BETWEEN
+    '$txtStartDate' and '$txtEndDate' ORDER BY tijd");
     $count=mysqli_num_rows($query);
 }
 
@@ -32,8 +32,8 @@ if (isset($_POST['search']))
     }
     else
     {
-        while ($row = mysqli_fetch_array($query)){
-            $result = $row['tijd'];
+        while($row = mysqli_fetch_array($query)){
+            $result = $row['omschrijving'];
             $output = '<h2>'.$result.'</h2>';
             echo $output;
         }
