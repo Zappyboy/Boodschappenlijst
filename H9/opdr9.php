@@ -1,32 +1,44 @@
+<?php
+$conn = mysqli_connect("localhost", "root", "", "boodschappen");
+if (!$conn) {
+    die("Connection failed:" .mysqli_connect_error());
+}
+if (isset($_POST['search']))
+{
+    $txtStartDate=$_POST['txtStartDate'];
+    $txtEndDate=$_POST['txtEndDate'];
+    $query = mysqli_query($conn, "SELECT omschrijving FROM product WHERE tijd BETWEEN
+    '$txtStartDate' and '$txtEndDate' ORDER BY tijd");
+    $count=mysqli_num_rows($query);
+}
+
+?>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Opdracht 6</title>
+    <title>Filter date</title>
 </head>
 <body>
-<table>
-    <tr>
-        <th>ID</th>
-        <th>Tijd</th>
-        <th>Omschrijving</th>
-    </tr>
+<form method="post">
+    <input type="date" name="txtStartDate">
+    <input type="date" name="txtEndDate">
+    <p>
+        <input type="submit" name="search" value="Search product date">
+    </p>
     <?php
-    $conn = mysqli_connect("localhost", "root", "", "boodschappen");
-    // Check connection
-    if ($conn->connect_error) {
-        die("Connection failed: " . $conn->connect_error);
+    if($count == "0")
+    {
+        echo '<h2>No Date Found</h2>';
     }
-    $sql = "SELECT idproduct,omschrijving, tijd FROM product";
-    $result = $conn->query($sql);
-    if ($result->num_rows > 0) {
-// output data of each row
-        while($row = $result->fetch_assoc()) {
-            echo "<tr><td>" . $row["idproduct"]. "</td><td>". $row["tijd"] ."</td><td>". $row["omschrijving"] ."</td></tr>";
+    else
+    {
+        while($row -> mysqli_fetch_array($query)){
+            $result = $row['omschrijving'];
+            $output = '<h2>'.$result.'</h2>';
+            echo $output;
         }
-        echo "</table>";
-    } else { echo "0 results"; }
-    $conn->close();
+    }
     ?>
-</table>
+</form>
 </body>
 </html>

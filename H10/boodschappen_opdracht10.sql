@@ -1,0 +1,1 @@
+INSERT INTO `klanten` (`idproduct`, `klantnaam`, `prijs`, `idklant`) VALUES ('1', 'Zapp Flick', '€3,13', '1'), ('2', 'Thom Zout', '€2,40', '2'), ('3', 'Joep Slot', '€3,00', '3'), ('4', 'Tom van Tiel', '€1,63', '4');
